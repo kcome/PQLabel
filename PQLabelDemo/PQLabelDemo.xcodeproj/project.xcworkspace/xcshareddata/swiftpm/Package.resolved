@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PQLabel",
+        "repositoryURL": "https://github.com/kcome/PQLabel",
+        "state": {
+          "branch": "master",
+          "revision": "c308f984963881a48d9b5d14be3339ec2b797655",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
